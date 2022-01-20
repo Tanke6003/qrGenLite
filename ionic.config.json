@@ -1,0 +1,7 @@
+{
+  "name": "qrGenLite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
